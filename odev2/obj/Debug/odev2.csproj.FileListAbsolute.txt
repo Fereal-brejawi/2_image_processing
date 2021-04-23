@@ -1,0 +1,11 @@
+C:\Users\ferae\Desktop\odev2\odev2\odev2\bin\Debug\odev2.exe.config
+C:\Users\ferae\Desktop\odev2\odev2\odev2\bin\Debug\odev2.exe
+C:\Users\ferae\Desktop\odev2\odev2\odev2\bin\Debug\odev2.pdb
+C:\Users\ferae\Desktop\odev2\odev2\odev2\obj\Debug\odev2.csprojAssemblyReference.cache
+C:\Users\ferae\Desktop\odev2\odev2\odev2\obj\Debug\odev2.Form1.resources
+C:\Users\ferae\Desktop\odev2\odev2\odev2\obj\Debug\odev2.odev2.resources
+C:\Users\ferae\Desktop\odev2\odev2\odev2\obj\Debug\odev2.Properties.Resources.resources
+C:\Users\ferae\Desktop\odev2\odev2\odev2\obj\Debug\odev2.csproj.GenerateResource.cache
+C:\Users\ferae\Desktop\odev2\odev2\odev2\obj\Debug\odev2.csproj.CoreCompileInputs.cache
+C:\Users\ferae\Desktop\odev2\odev2\odev2\obj\Debug\odev2.exe
+C:\Users\ferae\Desktop\odev2\odev2\odev2\obj\Debug\odev2.pdb
